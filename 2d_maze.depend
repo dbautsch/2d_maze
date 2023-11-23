@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1325508336 source:c:\source\pacman_cb\main.cpp
+	<windows.h>
+	"game.h"
+	"stack.h"
+	"maze-generator.h"
+
+1326054828 c:\source\pacman_cb\game.h
+	<bgi/winbgim.h>
+	<windows.h>
+	<string.h>
+	<string>
+	<cmath>
+	<vector>
+	"maze-generator.h"
+	"defines.h"
+
+1108041802 c:\progr\lib\bgi\winbgim.h
+	<stddef.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<../string.h>
+
+1326026287 c:\source\pacman_cb\maze-generator.h
+	<windows.h>
+	<vector>
+	<sstream>
+	<ctime>
+	<fstream>
+	"stack.h"
+
+1326016503 c:\source\pacman_cb\stack.h
+	<cstdlib>
+
+1326027038 source:c:\source\pacman_cb\maze-generator.cpp
+	"maze-generator.h"
+
+1326055374 source:c:\source\pacman_cb\game.cpp
+	"game.h"
+
+1326021143 c:\source\pacman_cb\defines.h
+
+1700762763 source:c:\documents and settings\winuser\pulpit\source\2d_maze\game.cpp
+	"game.h"
+
+1700593500 c:\documents and settings\winuser\pulpit\source\2d_maze\game.h
+	<bgi/winbgim.h>
+	<windows.h>
+	<string.h>
+	<string>
+	<cmath>
+	<vector>
+	"maze-generator.h"
+	"defines.h"
+
+1700671061 c:\documents and settings\winuser\pulpit\source\2d_maze\dependencies\winbgim\bgi\winbgim.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1700593500 c:\documents and settings\winuser\pulpit\source\2d_maze\maze-generator.h
+	<windows.h>
+	<vector>
+	<sstream>
+	<ctime>
+	<fstream>
+	"stack.h"
+
+1700593500 c:\documents and settings\winuser\pulpit\source\2d_maze\stack.h
+	<cstdlib>
+
+1700593500 c:\documents and settings\winuser\pulpit\source\2d_maze\defines.h
+
+1700593500 source:c:\documents and settings\winuser\pulpit\source\2d_maze\main.cpp
+	<windows.h>
+	"game.h"
+	"stack.h"
+	"maze-generator.h"
+
+1700593500 source:c:\documents and settings\winuser\pulpit\source\2d_maze\maze-generator.cpp
+	"maze-generator.h"
+

@@ -9,6 +9,7 @@ The game is a 2D board where you move your "player" using left/right/up/down arr
 # Known bugs
 
 There is one known bug, which is in the maze generator. It does not generate alternate paths, thus there is only one correct path rendered making the whole maze game stupid simple.
+The plan is to rewrite maze generator from scratch.
 
 # Technical details
 
